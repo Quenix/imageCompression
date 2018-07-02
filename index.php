@@ -31,6 +31,10 @@
                     <label for='upload'>Selecione uma imagem:</label>
                     <input id="upload" name="imagem" type="file" accept="image/jpeg" class="btn-dark form-control">
 
+                    <select class="form-control" name="compressed">
+                        <option value="0">Sem compressão</option>
+                        <option value="1">TinyPNG</option>
+                    </select>
                     <button type="submit" class="btn btn-info">Upload</button>
 
                 </form>
