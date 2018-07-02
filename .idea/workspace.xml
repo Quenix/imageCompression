@@ -43,10 +43,10 @@
       <file leaf-file-name="upload.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/upload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-309">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="144">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
-                <marker date="1530507238645" expanded="true" signature="963:1059" ph="INSERT INTO imagem... " />
+                <marker date="1530508223712" expanded="true" signature="1025:1121" ph="INSERT INTO imagem... " />
               </folding>
             </state>
           </provider>
@@ -174,12 +174,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530478484272</updated>
-      <workItem from="1530478486465" duration="19100000" />
+      <workItem from="1530478486465" duration="19939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19100000" />
+    <option name="totallyTimeSpent" value="19939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -297,21 +297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-          <folding>
-            <marker date="1530503428287" expanded="true" signature="1157:1271" ph="..." />
-            <marker date="1530503428287" expanded="true" signature="2068:2082" ph="SELECT * FRO... usuario" />
-            <marker date="1530503428287" expanded="true" signature="2068:2088" ph="SELECT * FRO... imagem" />
-            <marker date="1530503428287" expanded="true" signature="2505:2877" ph="..." />
-            <marker date="1530503428287" expanded="true" signature="2640:2864" ph="..." />
-            <marker date="1530503428287" expanded="true" signature="2792:2864" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1530504291.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -342,12 +327,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding>
+            <marker date="1530503428287" expanded="true" signature="1157:1271" ph="..." />
+            <marker date="1530503428287" expanded="true" signature="2068:2082" ph="SELECT * FRO... usuario" />
+            <marker date="1530503428287" expanded="true" signature="2068:2088" ph="SELECT * FRO... imagem" />
+            <marker date="1530503428287" expanded="true" signature="2505:2877" ph="..." />
+            <marker date="1530503428287" expanded="true" signature="2640:2864" ph="..." />
+            <marker date="1530503428287" expanded="true" signature="2792:2864" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/upload.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-309">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="144">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <marker date="1530507238645" expanded="true" signature="963:1059" ph="INSERT INTO imagem... " />
+            <marker date="1530508223712" expanded="true" signature="1025:1121" ph="INSERT INTO imagem... " />
           </folding>
         </state>
       </provider>

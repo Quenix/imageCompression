@@ -8,6 +8,7 @@
 
 include('conexao.php');
 require_once("vendor/autoload.php");
+ini_set('max_execution_time', 300); //300 seconds = 5 minutes
 
 \Tinify\setKey("uK4yoQGRgJotdIovvaYVeMM4bYRVZDPM");
 
