@@ -1,0 +1,38 @@
+.uploader{
+	
+	margin: 100px;
+	
+}
+
+.uploader form button{
+	
+	margin: 50px;
+	
+}
+
+.uploader img {
+
+	width: 25%;
+	height: 20%;
+
+}
+
+.thumbnailLarge{
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.thumbnailView{
+
+	margin: 20px;
+
+}
+
+.delete:hover{
+	cursor: pointer;
+	color: red;
+}
+
+figure figcaption{
+	margin-top: 35px;
+}
